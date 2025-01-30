@@ -30,19 +30,3 @@ Before testing the frontend, make sure the `recipe-backend` is running.
 5. Click **Delete** to remove a meal from favorites.
 
 ---
-
-## 🚀 **Next Steps**
-After creating `README.md` for both repositories, push the changes using the following commands:
-
-### **For `backend`:**
-```bash
-cd /Users/payamnamin/Repos/JU/Java/JAVA-EXAMPLES/recipe-backend
-git add README.md
-git commit -m "Added README"
-git push origin main
-
-For frontend:
-cd /Users/payamnamin/Repos/JU/Java/JAVA-EXAMPLES/recipe-frontend
-git add README.md
-git commit -m "Added README"
-git push origin main
